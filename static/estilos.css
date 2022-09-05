@@ -1,0 +1,25 @@
+body {
+	background-color: #DCDCDC;
+}
+
+h1 {
+	color: orangered;
+}
+
+p {
+	color: blue;
+}
+
+a:link, a:visited {
+	color: #00AA00;
+	text-decoration: none;
+}
+
+a:hover {
+	color: orange;
+	text-decoration: underline;
+}
+
+.urgente {
+	color: red;
+}
